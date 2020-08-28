@@ -10,6 +10,6 @@ $rec = "jm.kagaya25@gmail.com";
 //send email
 
 mail($rec,$sub,$msg);
-
+//https://myaccount.google.com/lesssecureapps
  
 ?>
